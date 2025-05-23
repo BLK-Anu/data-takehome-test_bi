@@ -12,10 +12,13 @@ This repository contains the datasets and instructions for our Business Intellig
 
 ## 📤 Candidate Instructions
 1. Clone or download this repository.
-2. Follow the instructions in the relevant folder.
-3. Submit your answers:
-   - **Option A**: Upload your completed work to your GitHub and share the link.
-   - **Option B**: Zip your work and share via Google Drive/Dropbox/email.
+2. You are required to complete the following:
+   a. General Big Query Compatible Questions
+   b. Case Study
+4. Submit your answers:
+   - **Option A**: Upload your completed work to your GitHub and share the link to anusia@bonuslink.com.my
+   - **Option B**: Zip your work and share via Google Drive/Dropbox/email and grant access to the email above.
+
 
 Good luck!
 
