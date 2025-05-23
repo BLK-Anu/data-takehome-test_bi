@@ -1,4 +1,4 @@
-*Section A: SQL & Data Interpretation (BigQuery Compatible)*
+**Section A: SQL & Data Interpretation (BigQuery Compatible)**
 
 SQL Task:
 You have a table transactions with the following schema:
@@ -13,7 +13,7 @@ Write a SQL query to get the total amount spent by each user in the last 3 month
 SQL Analysis:
 Based on your query results above, how would you identify the top 3 merchants by revenue for each month?
 
-*Section B: Dashboarding & BI Tools*
+**Section B: Dashboarding & BI Tools**
 
 Dashboard Task:
 Imagine your stakeholder wants to understand how customer engagement varies across merchants and weekdays.
@@ -31,8 +31,8 @@ a. What KPIs would you recommend tracking?
 
 b. How would you attribute changes in performance to the campaign?
 
-*Section C: Case Question
-Business Insight Case:*
+**Section C: Case Question
+Business Insight Case:**
 You observe a 20% drop in redemption rates for a loyalty program this month.
 
 a. What steps would you take to investigate this?
