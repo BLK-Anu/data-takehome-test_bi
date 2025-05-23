@@ -1,0 +1,40 @@
+*Section A: SQL & Data Interpretation (BigQuery Compatible)*
+
+SQL Task:
+You have a table transactions with the following schema:
+
+user_id (STRING)
+transaction_date (DATE)
+amount (FLOAT64)
+merchant_name (STRING)
+
+Write a SQL query to get the total amount spent by each user in the last 3 months, grouped by merchant. Only include users who have transacted more than 3 times in this period.
+
+SQL Analysis:
+Based on your query results above, how would you identify the top 3 merchants by revenue for each month?
+
+*Section B: Dashboarding & BI Tools*
+
+Dashboard Task:
+Imagine your stakeholder wants to understand how customer engagement varies across merchants and weekdays.
+
+a. What charts would you use?
+
+b. What filters or drill-downs would you provide?
+
+c. Describe how you would approach building this in Tableau or Redash.
+
+KPI Design:
+A marketing team wants to measure the success of a new campaign.
+
+a. What KPIs would you recommend tracking?
+
+b. How would you attribute changes in performance to the campaign?
+
+*Section C: Case Question
+Business Insight Case:*
+You observe a 20% drop in redemption rates for a loyalty program this month.
+
+a. What steps would you take to investigate this?
+
+b. What kinds of data would you look at?
