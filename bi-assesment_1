@@ -1,40 +1,51 @@
-**Section A: SQL & Data Interpretation (BigQuery Compatible)**
 
-SQL Task:
-You have a table transactions with the following schema:
+## 🔹 Technical Questionnaire – **BI Analyst Role**
 
-user_id (STRING)
-transaction_date (DATE)
-amount (FLOAT64)
-merchant_name (STRING)
+> **Instructions:** Please complete the questions below. Where applicable, include SQL queries, screenshots of dashboards (if allowed), or sample outputs.
 
-Write a SQL query to get the total amount spent by each user in the last 3 months, grouped by merchant. Only include users who have transacted more than 3 times in this period.
+---
 
-SQL Analysis:
-Based on your query results above, how would you identify the top 3 merchants by revenue for each month?
+### **Section A: SQL & Data Interpretation (BigQuery Compatible)**
 
-**Section B: Dashboarding & BI Tools**
+1. **SQL Task:**
+   You have a table `transactions` with the following schema:
 
-Dashboard Task:
-Imagine your stakeholder wants to understand how customer engagement varies across merchants and weekdays.
+   * `user_id` (STRING)
+   * `transaction_date` (DATE)
+   * `amount` (FLOAT64)
+   * `merchant_name` (STRING)
 
-a. What charts would you use?
+   **Write a SQL query to get the total amount spent by each user in the last 3 months, grouped by merchant.** Only include users who have transacted more than 3 times in this period.
 
-b. What filters or drill-downs would you provide?
+2. **SQL Analysis:**
+   Based on your query results above, how would you identify the top 3 merchants by revenue for each month?
 
-c. Describe how you would approach building this in Tableau or Redash.
+---
 
-KPI Design:
-A marketing team wants to measure the success of a new campaign.
+### **Section B: Dashboarding & BI Tools**
 
-a. What KPIs would you recommend tracking?
+3. **Dashboard Task:**
+   Imagine your stakeholder wants to understand how customer engagement varies across merchants and weekdays.
 
-b. How would you attribute changes in performance to the campaign?
+   * What charts would you use?
+   * What filters or drill-downs would you provide?
+   * Describe how you would approach building this in Tableau or Redash.
 
-**Section C: Case Question
-Business Insight Case:**
-You observe a 20% drop in redemption rates for a loyalty program this month.
+4. **KPI Design:**
+   A marketing team wants to measure the success of a new campaign.
 
-a. What steps would you take to investigate this?
+   * What KPIs would you recommend tracking?
+   * How would you attribute changes in performance to the campaign?
 
-b. What kinds of data would you look at?
+---
+
+### **Section C: Case Question**
+
+5. **Business Insight Case:**
+   You observe a 20% drop in redemption rates for a loyalty program this month.
+
+   * What steps would you take to investigate this?
+   * What kinds of data would you look at?
+
+---
+
