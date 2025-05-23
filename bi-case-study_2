@@ -1,0 +1,62 @@
+
+## 🔵 Case Study: **Business Intelligence Analyst**
+
+### 📝 Objective:
+
+Evaluate your ability to analyze data, generate business insights, and present findings in a way that's actionable and easy to understand by stakeholders.
+
+---
+
+### 📂 Case Study: Merchant Performance Analysis
+
+BonusLink partners with multiple merchants, and management is keen to evaluate which merchants are underperforming or overperforming in terms of customer engagement and transaction volume.
+
+**You are provided with the following mock datasets** (CSV or SQL-compatible):
+
+* `transactions.csv` — list of transactions with merchant, member ID, timestamp, and spend amount
+* `members.csv` — member ID, signup date, and tier
+* `merchants.csv` — merchant ID, category, location, and join date
+
+---
+
+### 🧠 Task:
+
+1. **Data Cleaning & Exploration**
+
+   * Perform basic EDA (Exploratory Data Analysis)
+   * Identify any data quality issues or assumptions
+
+2. **Merchant Performance Metrics**
+
+   * Define and calculate relevant KPIs for merchant performance (e.g., number of active members, avg spend per member, retention rate)
+   * Identify top and bottom merchants using your metrics
+
+3. **Insights & Recommendations**
+
+   * Summarize key business insights
+   * Recommend what actions should be taken for underperforming merchants
+
+4. **Dashboard/Visualization**
+
+   * Build a simple dashboard to communicate your findings (in Tableau Public or screenshots if using other tools)
+   * Include filters or interactive components if applicable
+
+---
+
+### 🚀 Submission Instructions:
+
+1. Create a **GitHub repository** with:
+
+   * Your SQL queries, Python notebooks (if any), and outputs
+   * A `README.md` summarizing your approach and insights
+   * Screenshots or links to Tableau Public dashboards
+   * Any assumptions or limitations
+
+2. Name the repo: `bi-takehome-[yourname]`
+
+3. Share the GitHub repo link with us
+
+> ✅ Bonus: Use Tableau Public and link your dashboard in the README
+
+---
+
